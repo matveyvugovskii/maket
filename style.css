@@ -1,0 +1,94 @@
+.same{
+color: rgb(254, 209, 54);
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 400;
+line-height: 41px;
+letter-spacing: 0px;
+text-transform: uppercase;
+}
+.gold{
+ color: rgb(254, 209, 54);
+ font-family: "Bilbo Swash Caps", cursive;
+font-size: 36px;
+font-weight: 400;
+line-height: 41px;
+letter-spacing: 1.3px;
+text-align: center;
+font-style: normal;
+}
+.similar{
+    color: rgb(34, 34, 34);
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+font-size: 18px;
+font-weight: 700;
+line-height: 75px;
+letter-spacing: -0.45px;
+text-align: center;
+font-style: normal;
+}
+.equal{
+    color: rgb(119, 119, 119);
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+font-size: 14px;
+font-weight: 400;
+line-height: -1px;
+letter-spacing: -0.35px;
+text-align: center;
+font-style: normal;
+}
+.hi{
+    background: rgb(34, 34, 34);
+}
+.hello{
+    color: rgb(255, 255, 255);
+font-size: 40px;
+font-weight: 700;
+line-height: 49px;
+letter-spacing: -1px;
+text-align: left;
+text-transform: uppercase;
+}
+.text{
+    color: rgb(119, 119, 119);
+font-family: DroidSerif;
+font-style: italic;
+font-size: 16px;
+font-weight: 400;
+line-height: -1px;
+letter-spacing: 0px;
+text-align: center;
+}
+.akin{
+    width: 455px;
+    color: rgb(187, 187, 187);
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+font-size: 14px;
+font-weight: 700;
+line-height: 17px;
+letter-spacing: -0.35px;
+text-align: left;
+text-transform: uppercase;
+font-style: normal;
+}
+.meta{
+    color: rgb(255, 255, 255);
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+font-size: 18px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 0px;
+text-align: center;
+text-transform: uppercase;
+font-style: normal;
+}
+.akin{
+width: 457px;
+}
+a{
+    text-decoration: none   
+}
