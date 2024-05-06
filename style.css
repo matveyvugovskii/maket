@@ -100,3 +100,7 @@ a{
     border: 2px dotted red;
     background: green;
 }
+.container{
+    width:938px ;
+    margin:0 auto ;
+}
